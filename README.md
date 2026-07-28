@@ -1,166 +1,331 @@
-# 👋 Hi, I'm Khaled Bilal Alrawajfeh
+# Hi, I'm Khaled Bilal Alrawajfeh
 
-**Software Engineer | Architect of ARGON Medical OS (Production Multi-Tenant EMR SaaS) | Full-Stack • Backend • Firebase • Embedded AI • IoT**
+## Software Engineer | Full-Stack Developer | Embedded Systems & IoT
 
-I'm a Software Engineer passionate about building production-grade software and intelligent systems that solve real-world problems.
+I am a Software Engineer focused on designing and building production software systems and embedded technology solutions.
 
-I independently architected, built, deployed, and currently maintain **ARGON Medical OS** — a production-grade, multi-tenant Electronic Medical Record (EMR) SaaS platform currently serving **5 medical clinics in Jordan**.
+My primary experience comes from independently architecting, developing, deploying, and maintaining **ARGON Medical OS**, a production multi-tenant Electronic Medical Record (EMR) SaaS platform currently serving **5 medical clinics in Jordan**.
 
-My work spans backend engineering, healthcare software, embedded systems, IoT, and AI-powered solutions.
+Alongside healthcare software, I design embedded systems and IoT solutions, with current work including smart energy monitoring and assistive technology prototypes.
 
 ---
 
-# 🚀 Featured Projects
+# Current Focus
+
+- Building and maintaining production healthcare software
+- Embedded Systems using ESP32
+- IoT Platforms
+- Smart Energy Systems
+- Backend Engineering
+- Software Architecture
+
+---
+
+# About Me
+
+I work across the complete software lifecycle—from system architecture and backend implementation to deployment, maintenance, and continuous improvement.
+
+My work combines software engineering with practical problem solving, covering production SaaS applications, healthcare systems, embedded firmware, and connected devices.
+
+I enjoy designing systems that balance functionality, maintainability, and scalability while solving real operational challenges.
+
+---
+
+# Featured Projects
+
+---
 
 ## 🏥 ARGON Medical OS
 
-Production-grade Multi-Tenant EMR SaaS Platform
+**Production Multi-Tenant Electronic Medical Record (EMR) SaaS**
 
-**Key Features**
+### Problem
 
-- Multi-Tenant Architecture
-- Electronic Medical Records (EMR)
-- Appointment & Queue Management
-- Pharmacy Management
-- Laboratory Management
-- Radiology Module
-- Billing & Invoicing
-- Patient Portal
+Small and medium-sized clinics often rely on disconnected workflows and paper-based processes, leading to operational inefficiencies.
+
+### Architecture
+
+- Multi-Tenant SaaS
+- Firebase
+- JavaScript
+- HTML
+- CSS
+- Real-time Database
 - Role-Based Access Control (RBAC)
+
+### Engineering Work
+
+- Multi-tenant architecture
+- Electronic Medical Records
+- Appointment management
+- Billing workflows
+- Pharmacy module
+- Laboratory module
+- Radiology module
+- Patient portal
 - Firebase Security Rules
-- Real-Time Synchronization
+- Production deployment
+- Production maintenance
 
-**Tech Stack**
+### Current Status
 
-- JavaScript (ES6)
-- Firebase Realtime Database
-- Firebase Storage
-- HTML5
-- CSS3
+Production
+
+Serving 5 medical clinics in Jordan.
+
+Repository
+
+➡️ ARGON Medical OS
 
 ---
 
 ## ⚡ Nexora GridHub X1
 
-AI-powered Smart Energy Intelligence Platform.
+**Embedded Smart Energy Intelligence Platform**
 
-Designed to monitor electrical systems using embedded hardware and Digital Signal Processing techniques to provide real-time energy insights.
+### Problem
 
-**Technologies**
+Residential energy monitoring solutions are often expensive and require invasive installation.
+
+### Architecture
 
 - ESP32-S3
 - Embedded C
 - Arduino
-- Digital Signal Processing (Goertzel)
+- Goertzel Algorithm
 - REST APIs
 - Firebase
-- IoT
+- Web Dashboard
 
----
+### Engineering Work
 
-## 🍽 Restaurant Management System
+- Embedded firmware
+- Signal processing
+- Smart energy monitoring
+- Dashboard development
+- Hardware architecture
 
-Restaurant management platform featuring:
+### Current Status
 
-- POS
-- Orders
-- Reservations
-- Kitchen Workflow
-- Inventory Management
-- Dashboard
+Prototype Development
+
+Repository
+
+➡️ Nexora GridHub X1
 
 ---
 
 ## 👓 Smart Blind Glasses
 
-Embedded AI assistive device designed to improve environmental awareness for visually impaired users using ESP32 and computer vision concepts.
+**Embedded AI Assistive Technology**
+
+### Objective
+
+Develop an affordable wearable device that improves environmental awareness for visually impaired users.
+
+### Technologies
+
+- ESP32
+- Embedded C
+- Arduino
+- Computer Vision Concepts
+- Wi-Fi
+
+### Engineering Work
+
+- Hardware design
+- Sensor integration
+- Embedded firmware
+- Assistive technology prototype
+
+### Current Status
+
+Prototype Development
+
+Repository
+
+➡️ Smart Blind Glasses
 
 ---
 
-# 💻 Technical Skills
+## 🍽 Restaurant Management System
 
-### Backend
+Modern restaurant operations platform.
+
+### Modules
+
+- POS
+- Orders
+- Reservations
+- Inventory
+- Kitchen Workflow
+- Dashboard
+
+### Technologies
+
+- HTML
+- CSS
+- JavaScript
+- Firebase
+
+### Current Status
+
+Active Development
+
+Repository
+
+➡️ Restaurant Management System
+
+---
+
+# Technical Skills
+
+## Programming
+
+- JavaScript
+- Embedded C
+- HTML5
+- CSS3
+
+## Backend
 
 - Firebase
 - REST APIs
-- Realtime Database
-- Cloud Storage
 
-### Frontend
+## Frontend
 
-- HTML5
-- CSS3
-- JavaScript (ES6)
+- HTML
+- CSS
+- JavaScript
 
-### Embedded Systems
+## Databases
+
+- Firebase Realtime Database
+- Firestore
+
+## Embedded Systems
 
 - ESP32
 - Arduino
-- Embedded C
 - UART
 - SPI
 - I2C
 - ADC
 - PWM
 
-### Signal Processing
+## IoT
+
+- Wi-Fi
+- Embedded Networking
+- Sensor Integration
+
+## Signal Processing
 
 - Goertzel Algorithm
-- FFT Fundamentals
-- Signal Conditioning
+- Digital Signal Processing Fundamentals
 
-### Enterprise
+## Cloud
 
-- Odoo ERP
-- Business Process Automation
+- Firebase
 
-### Tools
+## Software Engineering
 
+- Multi-Tenant Architecture
+- RBAC
+- Authentication
+- Production Systems
+- Software Architecture
 - Git
 - GitHub
-- VS Code
 
 ---
 
-# 📈 Production Experience
+# Engineering Highlights
 
-Through ARGON Medical OS I gained hands-on experience in:
-
-- Designing scalable multi-tenant architectures
-- Implementing Role-Based Access Control (RBAC)
-- Developing Firebase Security Rules
-- Maintaining live production systems
-- Billing and invoicing workflows
-- Real-time synchronization
-- Disaster recovery planning
-- Production maintenance and support
+- Production healthcare SaaS
+- Multi-tenant system architecture
+- Real-time applications
+- Production maintenance
+- Firebase Security Rules
+- Role-Based Access Control
+- Embedded firmware development
+- IoT applications
+- Smart energy systems
+- Healthcare software
+- Technical documentation
 
 ---
 
-# 🌍 Currently Looking For
+# GitHub Portfolio
 
-I'm currently open to Software Engineering opportunities in:
+| Project | Status |
+|---------|--------|
+| ARGON Medical OS | Production |
+| Nexora GridHub X1 | Prototype |
+| Smart Blind Glasses | Prototype |
+| Restaurant Management System | Active Development |
 
-- Saudi Arabia 🇸🇦
-- United Arab Emirates 🇦🇪
-- Qatar 🇶🇦
-- Jordan 🇯🇴
-- Australia 🇦🇺
+---
 
-Interested in:
+# Current Learning
 
-- Full-Stack Development
-- Backend Engineering
+Currently expanding my knowledge in:
+
+- Software Architecture
+- Embedded Systems
+- Embedded AI
+- IoT
+- Cloud Engineering
+- Testing
+- CI/CD
+- Docker
+
+---
+
+# Education
+
+**Bachelor of Computer Information Systems (Expected 2026)**
+
+Al-Balqa Applied University
+
+Jordan
+
+---
+
+# Open To Work
+
+I'm currently open to opportunities in:
+
 - Software Engineering
-- Firebase Development
+- Backend Development
+- Full-Stack Development
 - Embedded Software
 - IoT Engineering
 
+Preferred Locations:
+
+- Saudi Arabia
+- United Arab Emirates
+- Qatar
+- Kuwait
+- Bahrain
+- Jordan
+- Australia
+
 ---
 
-# 📫 Connect
+# Contact
 
-- LinkedIn: www.linkedin.com/in/khaled-bilal-alrawajfeh
-- GitHub: https://github.com/khaledalrawjfeh-ai
+📍 Jordan
 
-Thanks for visiting my profile! 🚀
+🔗 LinkedIn
+
+https://linkedin.com/in/your-profile
+
+💻 GitHub
+
+https://github.com/khaledalrawjfeh-ai
+
+📧 Email
+
+khaledalrawjfeh@gmail.com
