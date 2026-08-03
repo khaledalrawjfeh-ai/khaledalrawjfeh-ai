@@ -1,209 +1,160 @@
-# Hi, I'm Khaled Bilal Alrawajfeh
+# Khaled Bilal Alrawajfeh
 
-## Software Engineer | Full-Stack Developer | Embedded Systems & IoT
+## Software Engineer | Full-Stack Developer | Embedded Systems | Healthcare Technology | IoT
 
-I am a Software Engineer focused on designing and building production software systems and embedded technology solutions.
+I design and build complete software products—from architecture and backend systems to embedded firmware and production deployment.
 
-My primary experience comes from independently architecting, developing, deploying, and maintaining **ARGON Medical OS**, a production multi-tenant Electronic Medical Record (EMR) SaaS platform currently serving **5 medical clinics in Jordan**.
+Unlike many junior engineers who work on isolated assignments, I enjoy solving real business and engineering problems by building complete systems from scratch.
 
-Alongside healthcare software, I design embedded systems and IoT solutions, with current work including smart energy monitoring and assistive technology prototypes.
-
----
-
-# Current Focus
-
-- Building and maintaining production healthcare software
-- Embedded Systems using ESP32
-- IoT Platforms
-- Smart Energy Systems
-- Backend Engineering
-- Software Architecture
+My work combines software engineering, healthcare technology, embedded systems, and intelligent connected devices.
 
 ---
 
-# About Me
+# What Makes Me Different
 
-I work across the complete software lifecycle—from system architecture and backend implementation to deployment, maintenance, and continuous improvement.
+Instead of building small demo applications, I focus on creating complete engineering products.
 
-My work combines software engineering with practical problem solving, covering production SaaS applications, healthcare systems, embedded firmware, and connected devices.
+## Production Software
 
-I enjoy designing systems that balance functionality, maintainability, and scalability while solving real operational challenges.
+I independently architected, developed, deployed, and continue maintaining **ARGON Medical OS**, a production multi-tenant Electronic Medical Record (EMR) SaaS platform currently serving **5 medical clinics in Jordan**.
+
+This includes:
+
+- Multi-tenant architecture
+- Electronic Medical Records
+- Appointment management
+- Billing
+- Pharmacy
+- Laboratory
+- Radiology
+- Patient Portal
+- Authentication
+- Role-Based Access Control (RBAC)
+- Firebase Security Rules
+- Production deployment
+- Continuous maintenance
+
+---
+
+## Engineering Research
+
+Beyond software, I enjoy building engineering systems that combine electronics, firmware, mathematics and software.
+
+Current research includes:
+
+- Smart Energy Monitoring
+- Embedded IoT Platforms
+- Digital Signal Processing
+- Active Impedance Spectroscopy
+- Embedded Intelligence
+- Assistive Technologies
 
 ---
 
 # Featured Projects
 
----
+## ARGON Medical OS
 
-## 🏥 ARGON Medical OS
+**Production Multi-Tenant Healthcare Platform**
 
-**Production Multi-Tenant Electronic Medical Record (EMR) SaaS**
+Status:
 
-### Problem
+**Production**
 
-Small and medium-sized clinics often rely on disconnected workflows and paper-based processes, leading to operational inefficiencies.
+Serving multiple medical clinics in Jordan.
 
-### Architecture
+### Engineering Scope
 
-- Multi-Tenant SaaS
-- Firebase
-- JavaScript
-- HTML
-- CSS
-- Real-time Database
-- Role-Based Access Control (RBAC)
-
-### Engineering Work
-
-- Multi-tenant architecture
-- Electronic Medical Records
-- Appointment management
-- Billing workflows
-- Pharmacy module
-- Laboratory module
-- Radiology module
-- Patient portal
-- Firebase Security Rules
+- Full-stack development
+- Software architecture
+- Firebase backend
+- Security architecture
+- Multi-tenant design
 - Production deployment
-- Production maintenance
-
-### Current Status
-
-Production
-
-Serving 5 medical clinics in Jordan.
-
-Repository
-
-➡️ ARGON Medical OS
+- Continuous maintenance
 
 ---
 
-## ⚡ Nexora GridHub X1
+## Nexora GridHub X1
 
 **Embedded Smart Energy Intelligence Platform**
 
-### Problem
+ESP32-S3 proof-of-concept exploring non-invasive appliance identification using Active Impedance Spectroscopy.
 
-Residential energy monitoring solutions are often expensive and require invasive installation.
+Current phase:
 
-### Architecture
+**Prototype / Engineering Research**
 
-- ESP32-S3
-- Embedded C
-- Arduino
+### Engineering Areas
+
+- Embedded Systems
+- ESP32
+- Signal Processing
 - Goertzel Algorithm
 - REST APIs
-- Firebase
-- Web Dashboard
-
-### Engineering Work
-
-- Embedded firmware
-- Signal processing
-- Smart energy monitoring
-- Dashboard development
-- Hardware architecture
-
-### Current Status
-
-Prototype Development
-
-Repository
-
-➡️ Nexora GridHub X1
+- Dashboard Development
+- Hardware Architecture
+- Technical Documentation
 
 ---
 
-## 👓 Smart Blind Glasses
+## Smart Blind Glasses
 
-**Embedded AI Assistive Technology**
+Affordable embedded assistive technology for visually impaired users.
 
-### Objective
+Focus areas:
 
-Develop an affordable wearable device that improves environmental awareness for visually impaired users.
-
-### Technologies
-
+- Embedded Firmware
+- Sensor Integration
 - ESP32
-- Embedded C
-- Arduino
-- Computer Vision Concepts
-- Wi-Fi
-
-### Engineering Work
-
-- Hardware design
-- Sensor integration
-- Embedded firmware
-- Assistive technology prototype
-
-### Current Status
-
-Prototype Development
-
-Repository
-
-➡️ Smart Blind Glasses
+- IoT
+- Assistive Technology
 
 ---
 
-## 🍽 Restaurant Management System
+## Restaurant Management System
 
-Modern restaurant operations platform.
+Modern cloud-based restaurant operations platform.
 
-### Modules
+Modules include:
 
 - POS
 - Orders
-- Reservations
 - Inventory
+- Reservations
 - Kitchen Workflow
 - Dashboard
-
-### Technologies
-
-- HTML
-- CSS
-- JavaScript
-- Firebase
-
-### Current Status
-
-Active Development
-
-Repository
-
-➡️ Restaurant Management System
 
 ---
 
 # Technical Skills
 
-## Programming
+### Languages
 
 - JavaScript
 - Embedded C
 - HTML5
 - CSS3
 
-## Backend
+### Backend
 
 - Firebase
 - REST APIs
+- Authentication
+- RBAC
 
-## Frontend
+### Frontend
 
 - HTML
 - CSS
 - JavaScript
 
-## Databases
+### Databases
 
 - Firebase Realtime Database
 - Firestore
 
-## Embedded Systems
+### Embedded Systems
 
 - ESP32
 - Arduino
@@ -213,72 +164,45 @@ Repository
 - ADC
 - PWM
 
-## IoT
+### IoT
 
 - Wi-Fi
-- Embedded Networking
 - Sensor Integration
+- Embedded Networking
 
-## Signal Processing
+### Software Engineering
 
-- Goertzel Algorithm
-- Digital Signal Processing Fundamentals
-
-## Cloud
-
-- Firebase
-
-## Software Engineering
-
-- Multi-Tenant Architecture
-- RBAC
-- Authentication
-- Production Systems
 - Software Architecture
+- Multi-Tenant Systems
+- Production Systems
+- Secure Application Design
 - Git
 - GitHub
 
 ---
 
-# Engineering Highlights
+# Engineering Mindset
 
-- Production healthcare SaaS
-- Multi-tenant system architecture
-- Real-time applications
-- Production maintenance
-- Firebase Security Rules
-- Role-Based Access Control
-- Embedded firmware development
-- IoT applications
-- Smart energy systems
-- Healthcare software
-- Technical documentation
+I enjoy solving difficult engineering problems.
 
----
+I naturally think in systems rather than isolated features, which allows me to design software that is easier to scale, maintain, and extend.
 
-# GitHub Portfolio
-
-| Project | Status |
-|---------|--------|
-| ARGON Medical OS | Production |
-| Nexora GridHub X1 | Prototype |
-| Smart Blind Glasses | Prototype |
-| Restaurant Management System | Active Development |
+My projects reflect long-term engineering thinking, extensive documentation, and attention to architecture rather than simply producing working code.
 
 ---
 
 # Current Learning
 
-Currently expanding my knowledge in:
+I continuously improve my skills in:
 
-- Software Architecture
-- Embedded Systems
 - Embedded AI
-- IoT
+- Advanced Software Architecture
+- Distributed Systems
 - Cloud Engineering
-- Testing
-- CI/CD
 - Docker
+- CI/CD
+- Automated Testing
+- Embedded Linux
 
 ---
 
@@ -292,17 +216,18 @@ Jordan
 
 ---
 
-# Open To Work
+# Open to Opportunities
 
-I'm currently open to opportunities in:
+I am interested in roles involving:
 
 - Software Engineering
-- Backend Development
+- Backend Engineering
 - Full-Stack Development
-- Embedded Software
+- Healthcare Technology
+- Embedded Systems
 - IoT Engineering
 
-Preferred Locations:
+Preferred Locations
 
 - Saudi Arabia
 - United Arab Emirates
@@ -314,18 +239,16 @@ Preferred Locations:
 
 ---
 
-# Contact
+# Connect With Me
 
 📍 Jordan
 
-🔗 LinkedIn
+📧 khaledalrawjfeh@gmail.com
 
-https://linkedin.com/in/your-profile
+💼 LinkedIn
+
+https://linkedin.com/in/your-linkedin
 
 💻 GitHub
 
 https://github.com/khaledalrawjfeh-ai
-
-📧 Email
-
-khaledalrawjfeh@gmail.com
